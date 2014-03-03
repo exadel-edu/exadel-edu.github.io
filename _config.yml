@@ -4,3 +4,6 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - README.md
+
+markdown:      kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
