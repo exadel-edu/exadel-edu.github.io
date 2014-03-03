@@ -5,16 +5,16 @@
 
 Все практические задания, выполняемые в рамках курса, должны соответствовать предоставленным:
 
-* [шаблону](/training-materials/BSU/MMF/course-task/mockup.pdf)
-* [тех. заданию](/training-materials/BSU/MMF/course-task/task.pdf)
+* [шаблону](/training-materials/front-end-dive-in-course/course-task/mockup.pdf)
+* [тех. заданию](/training-materials/front-end-dive-in-course/course-task/task.pdf)
 
 
 #### Лекция №1
 
 Обзор курса. URL,DNS,HTTP. Устройство и работа барузера. Форматы данных.
 
-[Текст лекции](/training-materials/BSU/MMF/lecture-1/L1-content.pdf) |
-[Презентация](/training-materials/BSU/MMF/lecture-1/L1-keynotes.pdf)
+[Текст лекции](/training-materials/front-end-dive-in-course/lecture-1/L1-content.pdf) |
+[Презентация](/training-materials/front-end-dive-in-course/lecture-1/L1-keynotes.pdf)
 
 
 
@@ -22,8 +22,8 @@
 
 Введение в HTML.
 
-[Текст лекции](/training-materials/BSU/MMF/lecture-2/L2-content.pdf) |
-[Презентация](/training-materials/BSU/MMF/lecture-2/L2-keynotes.pdf)
+[Текст лекции](/training-materials/front-end-dive-in-course/lecture-2/L2-content.pdf) |
+[Презентация](/training-materials/front-end-dive-in-course/lecture-2/L2-keynotes.pdf)
 
 __Задание:__
 Подготовить базовую разметку всех страниц.
@@ -34,8 +34,8 @@ __Задание:__
 
 Введение в CSS.
 
-[Текст лекции](/training-materials/BSU/MMF/lecture-3/content.pdf) |
-[Презентация](/training-materials/BSU/MMF/lecture-3/keynotes.pdf)
+[Текст лекции](/training-materials/front-end-dive-in-course/lecture-3/content.pdf) |
+[Презентация](/training-materials/front-end-dive-in-course/lecture-3/keynotes.pdf)
 
 __Задание:__
 Закончить верствку всех модулей сайта.
@@ -46,8 +46,8 @@ __Задание:__
 
 Введение в JavaScript (синтаксис, управляющие структуры, типы данных)
 
-[Текст лекции](/training-materials/BSU/MMF/lecture-4/content.pdf) |
-[Презентация](/training-materials/BSU/MMF/lecture-4/keynotes.pdf)
+[Текст лекции](/training-materials/front-end-dive-in-course/lecture-4/content.pdf) |
+[Презентация](/training-materials/front-end-dive-in-course/lecture-4/keynotes.pdf)
 
 __Задание:__
 Сделать виджет корзины, фильтрацию товаров, валидации форм.
@@ -58,8 +58,8 @@ __Задание:__
 
 DOM/BOM.
 
-[Текст лекции](/training-materials/BSU/MMF/lecture-5/content.pdf) |
-[Презентация](/training-materials/BSU/MMF/lecture-5/keynotes.pdf)
+[Текст лекции](/training-materials/front-end-dive-in-course/lecture-5/content.pdf) |
+[Презентация](/training-materials/front-end-dive-in-course/lecture-5/keynotes.pdf)
 
 __Задание:__
 Сделать виджет корзины, фильтрацию товаров, валидации форм.
@@ -70,8 +70,8 @@ __Задание:__
 
 AJAX/COMET. Знакомство и с библиотекой jQuery.
 
-[Текст лекции](/training-materials/BSU/MMF/lecture-6/content.pdf) |
-[Презентация](/training-materials/BSU/MMF/lecture-6/keynotes.pdf)
+[Текст лекции](/training-materials/front-end-dive-in-course/lecture-6/content.pdf) |
+[Презентация](/training-materials/front-end-dive-in-course/lecture-6/keynotes.pdf)
 
 __Задание:__
 Постраничная навигация. Рефакторинг кода.
@@ -82,8 +82,8 @@ __Задание:__
 
 Шаблоны проектирования.
 
-[Текст лекции](/training-materials/BSU/MMF/lecture-7/content.pdf) |
-[Презентация](/training-materials/BSU/MMF/lecture-7/keynotes.pdf)
+[Текст лекции](/training-materials/front-end-dive-in-course/lecture-7/content.pdf) |
+[Презентация](/training-materials/front-end-dive-in-course/lecture-7/keynotes.pdf)
 
 
 
@@ -91,5 +91,5 @@ __Задание:__
 
 Устоявшиеся практики. Отладка. Профилирование. Настройка среды разработки.
 
-[Текст лекции](/training-materials/BSU/MMF/lecture-8/content.pdf) |
-[Презентация](/training-materials/BSU/MMF/lecture-8/keynotes.pdf)
+[Текст лекции](/training-materials/front-end-dive-in-course/lecture-8/content.pdf) |
+[Презентация](/training-materials/front-end-dive-in-course/lecture-8/keynotes.pdf)

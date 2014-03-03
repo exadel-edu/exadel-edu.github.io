@@ -5,7 +5,7 @@
 
 Все требования, предъявляемые проекту описаны в:
 
-* [шаблоне](/training-materials/BSU/MMF/course-task/mockup.pdf)
-* [тех. задании](/training-materials/BSU/MMF/course-task/task.pdf)
+* [шаблоне](/training-materials/front-end-dive-in-course/course-task/mockup.pdf)
+* [тех. задании](/training-materials/front-end-dive-in-course/course-task/task.pdf)
 
 При возникновении вопросов, связанных с выполнением задания можно обращаться к преподавателям курса.
