@@ -1,0 +1,37 @@
+---
+layout: default
+title: Введение в веб-разработку
+---
+
+{% include common/header.html %}
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1>
+            Введение в веб-разработку<br>
+            <small>Java SE</small>
+        </h1>
+
+        <ul>
+            <li><a href="#program">Программа курса</a></li>
+            <li><a href="#task">Задание</a></li>
+            <li><a href="#timetable">Расписание</a></li>
+        </ul>
+
+        <section id="program" class="course-description-item">
+            {% capture program %}{% include back-end/program.md %}{% endcapture %}
+            {{ program | markdownify }}
+        </section>
+
+        <section id="task" class="course-description-item">
+            {% capture task %}{% include back-end/task.md %}{% endcapture %}
+            {{ task | markdownify }}
+        </section>
+
+        <section id="timetable" class="course-description-item">
+            {% capture timetable %}{% include back-end/timetable.md %}{% endcapture %}
+            {{ timetable | markdownify }}
+        </section>
+
+    </div>
+</div>

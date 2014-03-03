@@ -1,0 +1,37 @@
+---
+layout: default
+title: Введение во front-end разработку
+---
+
+{% include common/header.html %}
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1>
+            Введение во front-end разработку<br>
+            <small>HTML, CSS, JS</small>
+        </h1>
+
+        <ul>
+            <li><a href="#program">Программа курса</a></li>
+            <li><a href="#task">Задание</a></li>
+            <li><a href="#timetable">Расписание</a></li>
+        </ul>
+
+        <section id="program" class="course-description-item">
+            {% capture program %}{% include front-end/program.md %}{% endcapture %}
+            {{ program | markdownify }}
+        </section>
+
+        <section id="task" class="course-description-item">
+            {% capture task %}{% include front-end/task.md %}{% endcapture %}
+            {{ task | markdownify }}
+        </section>
+
+        <section id="timetable" class="course-description-item">
+            {% capture timetable %}{% include front-end/timetable.md %}{% endcapture %}
+            {{ timetable | markdownify }}
+        </section>
+
+    </div>
+</div>

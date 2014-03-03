@@ -1,0 +1,38 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+}
+
+.jumbotron {
+    text-align       : center;
+    background-color : transparent;
+    border-bottom    : 1px solid #eee;
+}
+
+.jumbotron .btn {
+    padding   : 14px 24px;
+    font-size : 21px;
+}
+
+.logo-container{
+    margin-top : 50px;
+}
+
+.course-description-item {
+    border-top : 1px solid #eee;
+    margin-top : 40px;
+}
+
+.course-description-item h4 {
+    margin-top : 30px;
+}
+
+.header{
+    margin-top: 20px;
+}
+
+.footer {
+    padding-top    : 40px;
+    padding-bottom : 40px;
+    margin-top     : 40px;
+    border-top     : 1px solid #eee;
+}
