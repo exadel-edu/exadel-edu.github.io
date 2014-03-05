@@ -34,8 +34,8 @@ __Задание:__
 
 Введение в CSS.
 
-[Текст лекции](/training-materials/front-end-dive-in-course/lecture-3/content.pdf) |
-[Презентация](/training-materials/front-end-dive-in-course/lecture-3/keynotes.pdf)
+[Текст лекции](/training-materials/front-end-dive-in-course/lecture-3/L3-content.pdf) |
+[Презентация](/training-materials/front-end-dive-in-course/lecture-3/L3-keynotes.pdf)
 
 __Задание:__
 Закончить верствку всех модулей сайта.
