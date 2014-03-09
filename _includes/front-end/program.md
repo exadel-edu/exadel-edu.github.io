@@ -16,6 +16,21 @@
 [Текст лекции](/training-materials/front-end-dive-in-course/lecture-1/L1-content.pdf) |
 [Презентация](/training-materials/front-end-dive-in-course/lecture-1/L1-keynotes.pdf)
 
+__Содержание:__
+
+1. Понятия URL/URI/DNS
+2. Протокол HTTP
+    * Структура
+    * Методы
+    * Статусные коды
+    * Заголовки
+3. Основы работы браузера, описание основных модулей
+4. Дерево контента (DOM)
+5. Порядок обработки скриптов и таблиц стилей
+6. Дерево отображения
+    * Компоновка
+    * Отрисовка
+
 
 
 #### Лекция №2
@@ -37,6 +52,22 @@ __Задание:__
 [Текст лекции](/training-materials/front-end-dive-in-course/lecture-3/L3-content.pdf) |
 [Презентация](/training-materials/front-end-dive-in-course/lecture-3/L3-keynotes.pdf)
 
+__Содержание:__
+
+1. Общие сведения
+2. Синтаксис
+    * Селекторы
+    * Вес селекторов
+3. Единицы измерения
+4. Блочная модель (box model)
+    * Типы элементов
+    * Позиционирование элементов (static, absolute, fixed, float)
+    * Слоевое представление документа (z-index)
+    * Типы блочной модели
+5. Стили по умолчанию
+6. Идентификация устройств
+7. Он­лайн инструменты
+
 __Задание:__
 Закончить верствку всех модулей сайта.
 
@@ -45,9 +76,6 @@ __Задание:__
 #### Лекция №4
 
 Введение в JavaScript (синтаксис, управляющие структуры, типы данных)
-
-[Текст лекции](/training-materials/front-end-dive-in-course/lecture-4/content.pdf) |
-[Презентация](/training-materials/front-end-dive-in-course/lecture-4/keynotes.pdf)
 
 __Задание:__
 Сделать виджет корзины, фильтрацию товаров, валидации форм.
@@ -58,9 +86,6 @@ __Задание:__
 
 DOM/BOM.
 
-[Текст лекции](/training-materials/front-end-dive-in-course/lecture-5/content.pdf) |
-[Презентация](/training-materials/front-end-dive-in-course/lecture-5/keynotes.pdf)
-
 __Задание:__
 Сделать виджет корзины, фильтрацию товаров, валидации форм.
 
@@ -69,9 +94,6 @@ __Задание:__
 #### Лекция №6
 
 AJAX/COMET. Знакомство и с библиотекой jQuery.
-
-[Текст лекции](/training-materials/front-end-dive-in-course/lecture-6/content.pdf) |
-[Презентация](/training-materials/front-end-dive-in-course/lecture-6/keynotes.pdf)
 
 __Задание:__
 Постраничная навигация. Рефакторинг кода.
@@ -82,14 +104,8 @@ __Задание:__
 
 Шаблоны проектирования.
 
-[Текст лекции](/training-materials/front-end-dive-in-course/lecture-7/content.pdf) |
-[Презентация](/training-materials/front-end-dive-in-course/lecture-7/keynotes.pdf)
-
 
 
 #### Лекция №8
 
 Устоявшиеся практики. Отладка. Профилирование. Настройка среды разработки.
-
-[Текст лекции](/training-materials/front-end-dive-in-course/lecture-8/content.pdf) |
-[Презентация](/training-materials/front-end-dive-in-course/lecture-8/keynotes.pdf)
