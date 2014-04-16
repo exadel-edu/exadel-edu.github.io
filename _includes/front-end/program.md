@@ -93,7 +93,34 @@ __Задание:__
 
 #### Лекция №6
 
-AJAX/COMET. Знакомство и с библиотекой jQuery.
+AJAX/COMET.
+
+[Текст лекции](/training-materials/front-end-dive-in-course/lecture-6/L6-content.pdf) |
+[Презентация](/training-materials/front-end-dive-in-course/lecture-6/L6-keynotes.pdf)
+
+__Содержание:__
+
+1. Общие сведения
+    * AJAX
+    * COMET
+2. Транспорты AJAX
+    * IMG
+    * IFRAME
+    * SCRIPT
+    * XHR
+3. XMLHttpRequest
+    * Отправка запроса
+    * Обработка ответов
+    * Синхронные/асинхронные зарпросы
+    * Подготовка/обработка данных
+    * Определение формата полученных данных
+    * Подготовка данных к отправке
+        * URL-encoded данные
+        * JSON данные
+        * XML данные
+4. Кросс-доменные запросы
+    * XMLHttpRequest
+    * JSONP
 
 __Задание:__
 Постраничная навигация. Рефакторинг кода.
