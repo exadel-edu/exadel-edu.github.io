@@ -180,8 +180,30 @@ __Задание:__
 
 #### Лекция №7
 
-Шаблоны проектирования.
+ООП. Шаблоны проектирования.
 
+[Презентация](/training-materials/front-end-dive-in-course/lecture-7/L7-keynotes.pdf)
+__Содержание:__
+
+1. Общие сведения
+2. ООП
+    * Функции конструкторы
+    * Приватные свойства и методы
+    * Статические свойства и методы
+    * Наследование
+3. Шаблоны проектирования
+    * Single Global Var
+    * Namespaces
+    * Memorization
+    * Currying
+    * Extend
+    * Bind
+    * Singleton
+    * Factory
+    * Events. Sub/Pub. Observe
+4. Модули. AMD & Common JS
+5. MVC
+6. Templating
 
 
 #### Лекция №8
