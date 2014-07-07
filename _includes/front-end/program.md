@@ -208,4 +208,6 @@ __Содержание:__
 
 #### Лекция №8
 
-Устоявшиеся практики. Отладка. Профилирование. Настройка среды разработки.
+Environment setup, best practices, debugging, profiling.
+
+[Презентация](/training-materials/front-end-dive-in-course/lecture-8/env_setup_best_practices_debugging_profiling.pdf)
