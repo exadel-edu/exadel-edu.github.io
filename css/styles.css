@@ -41,6 +41,16 @@ a{
     border-top     : 1px solid #eee;
 }
 
+code {
+    color: #333;
+    background-color: #f5f5f5;
+}
+
+h5{
+    font-size: 17px;
+    margin-top: 20px;
+}
+
 .course-description-item .modal h4 {
     margin-top : 0px;
 }
