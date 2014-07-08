@@ -53,7 +53,10 @@ _Задание:_
 1. Развернуть среду разработки: установить все, что перечислено в разделе [Основные инструменты разработки](#main-tools)
 2. Получить общее представление об устройстве и работе с SCM GIT ([документация ru](http://git-scm.com/book/ru))
 3. Изучить основы работы с Emmet ([документация en](http://docs.emmet.io/) \| <a data-toggle="modal" data-target="#emmet-quizz">тест</a>)
-4. Изучить основы работы с Less ([документация ru](http://www.lesscss.ru/))
+4. Изучить основы работы с Less ([документация ru](http://www.lesscss.ru/) \| <a data-toggle="modal" data-target="#less-quizz">тест</a>)
 
 {% capture task %}{% include front-end-camp/quizzes/emmet-quizz.md %}{% endcapture %}
+{{ task | markdownify }}
+
+{% capture task %}{% include front-end-camp/quizzes/less-quizz.md %}{% endcapture %}
 {{ task | markdownify }}
