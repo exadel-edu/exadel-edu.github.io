@@ -24,3 +24,27 @@
 * [BOWER](http://bower.io/)
 * [GRUNT](http://gruntjs.com/)
 * [YeoMan](http://yeoman.io/)
+
+#### Рекомендованная структура проекта
+
+Рекомендованная структура директорий для практических заданий в рамках стажировки выглядит так:
+
+{% highlight javascript %}
+project-folder/
+|
+|- images/
+|  |── layout/
+|  └── content/
+|
+|- css
+|  |── source/
+|  └── compiled/
+|
+|- templates/
+|
+|- js
+|  |── libs/
+|  └── app/
+|
+└── index.html
+{% endhighlight %}
