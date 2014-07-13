@@ -28,6 +28,8 @@
 В качестве содержимого тестов (вопросы, варианты ответов) можно использовать заранее подготовленные данные, содержащиеся в
 .json файле в след формате.
 
+[скачать](/training-materials/fe-camp/task-assets/quizz-data.json)
+
 {% highlight javascript %}
 var quizData = [
     {
