@@ -1,0 +1,37 @@
+---
+layout: default
+title: Введение во front-end разработку
+---
+
+{% include common/header.html %}
+
+<div class="row">
+    <div class="col-lg-12">
+        <h1>
+            БГУ ФПМ 2015<br>
+            <small>HTML 5, CSS 3, JS, Networking, Java, Servlets, JSP, DB, SQL</small>
+        </h1>
+
+        <ul>
+            <li><a href="#timetable">Расписание</a></li>
+            <li><a href="#program">Программа курса</a></li>
+            <li><a href="#task">Задание</a></li>
+        </ul>
+
+        <section id="timetable" class="course-description-item">
+            {% capture timetable %}{% include bsu-fpmi-2015/timetable.md %}{% endcapture %}
+            {{ timetable | markdownify }}
+        </section>
+
+        <section id="program" class="course-description-item">
+            {% capture program %}{% include bsu-fpmi-2015/program.md %}{% endcapture %}
+            {{ program | markdownify }}
+        </section>
+
+        <section id="task" class="course-description-item">
+            {% capture task %}{% include bsu-fpmi-2015/task.md %}{% endcapture %}
+            {{ task | markdownify }}
+        </section>
+
+    </div>
+</div>
